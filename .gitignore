@@ -1,0 +1,22 @@
+# Never publish participant-level data
+data/raw/*
+!data/raw/.gitkeep
+data/derived/
+
+# Python / notebook caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX temporary files only (the final phase1.pdf IS deliverable)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db

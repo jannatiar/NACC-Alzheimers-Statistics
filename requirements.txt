@@ -1,0 +1,6 @@
+# Phase 1, Dataset C; compatible with Python 3.10+
+numpy>=1.26,<3
+pandas>=2.0,<3
+matplotlib>=3.8,<4
+# Enables Jupyter/VS Code notebook execution within the virtual environment
+ipykernel>=6.29,<8

@@ -1,0 +1,127 @@
+﻿variable,hemisphere,region_name_en,measurement,unit
+NACCID,,,participant ID,not applicable
+LH_CAUDALANTERIORCINGULATE_GVOL,left,caudal anterior cingulate,regional gray-matter volume,not supplied / verify with TA
+RH_CAUDALANTERIORCINGULATE_GVOL,right,caudal anterior cingulate,regional gray-matter volume,not supplied / verify with TA
+LH_CAUDALANTERIORCINGULATE_AVGTH,left,caudal anterior cingulate,mean cortical thickness,mm (project documentation)
+RH_CAUDALANTERIORCINGULATE_AVGTH,right,caudal anterior cingulate,mean cortical thickness,mm (project documentation)
+LH_CAUDALMIDDLEFRONTAL_GVOL,left,caudal middle frontal,regional gray-matter volume,not supplied / verify with TA
+RH_CAUDALMIDDLEFRONTAL_GVOL,right,caudal middle frontal,regional gray-matter volume,not supplied / verify with TA
+LH_CAUDALMIDDLEFRONTAL_AVGTH,left,caudal middle frontal,mean cortical thickness,mm (project documentation)
+RH_CAUDALMIDDLEFRONTAL_AVGTH,right,caudal middle frontal,mean cortical thickness,mm (project documentation)
+LH_CUNEUS_GVOL,left,cuneus,regional gray-matter volume,not supplied / verify with TA
+RH_CUNEUS_GVOL,right,cuneus,regional gray-matter volume,not supplied / verify with TA
+LH_CUNEUS_AVGTH,left,cuneus,mean cortical thickness,mm (project documentation)
+RH_CUNEUS_AVGTH,right,cuneus,mean cortical thickness,mm (project documentation)
+LH_ENTORHINAL_GVOL,left,entorhinal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_ENTORHINAL_GVOL,right,entorhinal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_ENTORHINAL_AVGTH,left,entorhinal cortex,mean cortical thickness,mm (project documentation)
+RH_ENTORHINAL_AVGTH,right,entorhinal cortex,mean cortical thickness,mm (project documentation)
+LH_FUSIFORM_GVOL,left,fusiform gyrus,regional gray-matter volume,not supplied / verify with TA
+RH_FUSIFORM_GVOL,right,fusiform gyrus,regional gray-matter volume,not supplied / verify with TA
+LH_FUSIFORM_AVGTH,left,fusiform gyrus,mean cortical thickness,mm (project documentation)
+RH_FUSIFORM_AVGTH,right,fusiform gyrus,mean cortical thickness,mm (project documentation)
+LH_INFERIORPARIETAL_GVOL,left,inferior parietal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_INFERIORPARIETAL_GVOL,right,inferior parietal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_INFERIORPARIETAL_AVGTH,left,inferior parietal cortex,mean cortical thickness,mm (project documentation)
+RH_INFERIORPARIETAL_AVGTH,right,inferior parietal cortex,mean cortical thickness,mm (project documentation)
+LH_INFERIORTEMPORAL_GVOL,left,inferior temporal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_INFERIORTEMPORAL_GVOL,right,inferior temporal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_INFERIORTEMPORAL_AVGTH,left,inferior temporal cortex,mean cortical thickness,mm (project documentation)
+RH_INFERIORTEMPORAL_AVGTH,right,inferior temporal cortex,mean cortical thickness,mm (project documentation)
+LH_ISTHMUSCINGULATE_GVOL,left,isthmus cingulate,regional gray-matter volume,not supplied / verify with TA
+RH_ISTHMUSCINGULATE_GVOL,right,isthmus cingulate,regional gray-matter volume,not supplied / verify with TA
+LH_ISTHMUSCINGULATE_AVGTH,left,isthmus cingulate,mean cortical thickness,mm (project documentation)
+RH_ISTHMUSCINGULATE_AVGTH,right,isthmus cingulate,mean cortical thickness,mm (project documentation)
+LH_LATERALOCCIPITAL_GVOL,left,lateral occipital cortex,regional gray-matter volume,not supplied / verify with TA
+RH_LATERALOCCIPITAL_GVOL,right,lateral occipital cortex,regional gray-matter volume,not supplied / verify with TA
+LH_LATERALOCCIPITAL_AVGTH,left,lateral occipital cortex,mean cortical thickness,mm (project documentation)
+RH_LATERALOCCIPITAL_AVGTH,right,lateral occipital cortex,mean cortical thickness,mm (project documentation)
+LH_LATERALORBITOFRONTAL_GVOL,left,lateral orbitofrontal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_LATERALORBITOFRONTAL_GVOL,right,lateral orbitofrontal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_LATERALORBITOFRONTAL_AVGTH,left,lateral orbitofrontal cortex,mean cortical thickness,mm (project documentation)
+RH_LATERALORBITOFRONTAL_AVGTH,right,lateral orbitofrontal cortex,mean cortical thickness,mm (project documentation)
+LH_LINGUAL_GVOL,left,lingual gyrus,regional gray-matter volume,not supplied / verify with TA
+RH_LINGUAL_GVOL,right,lingual gyrus,regional gray-matter volume,not supplied / verify with TA
+LH_LINGUAL_AVGTH,left,lingual gyrus,mean cortical thickness,mm (project documentation)
+RH_LINGUAL_AVGTH,right,lingual gyrus,mean cortical thickness,mm (project documentation)
+LH_MEDIALORBITOFRONTAL_GVOL,left,medial orbitofrontal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_MEDIALORBITOFRONTAL_GVOL,right,medial orbitofrontal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_MEDIALORBITOFRONTAL_AVGTH,left,medial orbitofrontal cortex,mean cortical thickness,mm (project documentation)
+RH_MEDIALORBITOFRONTAL_AVGTH,right,medial orbitofrontal cortex,mean cortical thickness,mm (project documentation)
+LH_MIDDLETEMPORAL_GVOL,left,middle temporal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_MIDDLETEMPORAL_GVOL,right,middle temporal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_MIDDLETEMPORAL_AVGTH,left,middle temporal cortex,mean cortical thickness,mm (project documentation)
+RH_MIDDLETEMPORAL_AVGTH,right,middle temporal cortex,mean cortical thickness,mm (project documentation)
+LH_PARAHIPPOCAMPAL_GVOL,left,parahippocampal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_PARAHIPPOCAMPAL_GVOL,right,parahippocampal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_PARAHIPPOCAMPAL_AVGTH,left,parahippocampal cortex,mean cortical thickness,mm (project documentation)
+RH_PARAHIPPOCAMPAL_AVGTH,right,parahippocampal cortex,mean cortical thickness,mm (project documentation)
+LH_PARACENTRAL_GVOL,left,paracentral cortex,regional gray-matter volume,not supplied / verify with TA
+RH_PARACENTRAL_GVOL,right,paracentral cortex,regional gray-matter volume,not supplied / verify with TA
+LH_PARACENTRAL_AVGTH,left,paracentral cortex,mean cortical thickness,mm (project documentation)
+RH_PARACENTRAL_AVGTH,right,paracentral cortex,mean cortical thickness,mm (project documentation)
+LH_PARSOPERCULARIS_GVOL,left,pars opercularis,regional gray-matter volume,not supplied / verify with TA
+RH_PARSOPERCULARIS_GVOL,right,pars opercularis,regional gray-matter volume,not supplied / verify with TA
+LH_PARSOPERCULARIS_AVGTH,left,pars opercularis,mean cortical thickness,mm (project documentation)
+RH_PARSOPERCULARIS_AVGTH,right,pars opercularis,mean cortical thickness,mm (project documentation)
+LH_PARSORBITALIS_GVOL,left,pars orbitalis,regional gray-matter volume,not supplied / verify with TA
+RH_PARSORBITALIS_GVOL,right,pars orbitalis,regional gray-matter volume,not supplied / verify with TA
+LH_PARSORBITALIS_AVGTH,left,pars orbitalis,mean cortical thickness,mm (project documentation)
+RH_PARSORBITALIS_AVGTH,right,pars orbitalis,mean cortical thickness,mm (project documentation)
+LH_PARSTRIANGULARIS_GVOL,left,pars triangularis,regional gray-matter volume,not supplied / verify with TA
+RH_PARSTRIANGULARIS_GVOL,right,pars triangularis,regional gray-matter volume,not supplied / verify with TA
+LH_PARSTRIANGULARIS_AVGTH,left,pars triangularis,mean cortical thickness,mm (project documentation)
+RH_PARSTRIANGULARIS_AVGTH,right,pars triangularis,mean cortical thickness,mm (project documentation)
+LH_PERICALCARINE_GVOL,left,pericalcarine cortex,regional gray-matter volume,not supplied / verify with TA
+RH_PERICALCARINE_GVOL,right,pericalcarine cortex,regional gray-matter volume,not supplied / verify with TA
+LH_PERICALCARINE_AVGTH,left,pericalcarine cortex,mean cortical thickness,mm (project documentation)
+RH_PERICALCARINE_AVGTH,right,pericalcarine cortex,mean cortical thickness,mm (project documentation)
+LH_POSTCENTRAL_GVOL,left,postcentral cortex,regional gray-matter volume,not supplied / verify with TA
+RH_POSTCENTRAL_GVOL,right,postcentral cortex,regional gray-matter volume,not supplied / verify with TA
+LH_POSTCENTRAL_AVGTH,left,postcentral cortex,mean cortical thickness,mm (project documentation)
+RH_POSTCENTRAL_AVGTH,right,postcentral cortex,mean cortical thickness,mm (project documentation)
+LH_POSTERIORCINGULATE_GVOL,left,posterior cingulate cortex,regional gray-matter volume,not supplied / verify with TA
+RH_POSTERIORCINGULATE_GVOL,right,posterior cingulate cortex,regional gray-matter volume,not supplied / verify with TA
+LH_POSTERIORCINGULATE_AVGTH,left,posterior cingulate cortex,mean cortical thickness,mm (project documentation)
+RH_POSTERIORCINGULATE_AVGTH,right,posterior cingulate cortex,mean cortical thickness,mm (project documentation)
+LH_PRECENTRAL_GVOL,left,precentral cortex,regional gray-matter volume,not supplied / verify with TA
+RH_PRECENTRAL_GVOL,right,precentral cortex,regional gray-matter volume,not supplied / verify with TA
+LH_PRECENTRAL_AVGTH,left,precentral cortex,mean cortical thickness,mm (project documentation)
+RH_PRECENTRAL_AVGTH,right,precentral cortex,mean cortical thickness,mm (project documentation)
+LH_PRECUNEUS_GVOL,left,precuneus,regional gray-matter volume,not supplied / verify with TA
+RH_PRECUNEUS_GVOL,right,precuneus,regional gray-matter volume,not supplied / verify with TA
+LH_PRECUNEUS_AVGTH,left,precuneus,mean cortical thickness,mm (project documentation)
+RH_PRECUNEUS_AVGTH,right,precuneus,mean cortical thickness,mm (project documentation)
+LH_ROSTRALANTERIORCINGULATE_GVOL,left,rostral anterior cingulate,regional gray-matter volume,not supplied / verify with TA
+RH_ROSTRALANTERIORCINGULATE_GVOL,right,rostral anterior cingulate,regional gray-matter volume,not supplied / verify with TA
+LH_ROSTRALANTERIORCINGULATE_AVGTH,left,rostral anterior cingulate,mean cortical thickness,mm (project documentation)
+RH_ROSTRALANTERIORCINGULATE_AVGTH,right,rostral anterior cingulate,mean cortical thickness,mm (project documentation)
+LH_ROSTRALMIDDLEFRONTAL_GVOL,left,rostral middle frontal,regional gray-matter volume,not supplied / verify with TA
+RH_ROSTRALMIDDLEFRONTAL_GVOL,right,rostral middle frontal,regional gray-matter volume,not supplied / verify with TA
+LH_ROSTRALMIDDLEFRONTAL_AVGTH,left,rostral middle frontal,mean cortical thickness,mm (project documentation)
+RH_ROSTRALMIDDLEFRONTAL_AVGTH,right,rostral middle frontal,mean cortical thickness,mm (project documentation)
+LH_SUPERIORFRONTAL_GVOL,left,superior frontal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_SUPERIORFRONTAL_GVOL,right,superior frontal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_SUPERIORFRONTAL_AVGTH,left,superior frontal cortex,mean cortical thickness,mm (project documentation)
+RH_SUPERIORFRONTAL_AVGTH,right,superior frontal cortex,mean cortical thickness,mm (project documentation)
+LH_SUPERIORPARIETAL_GVOL,left,superior parietal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_SUPERIORPARIETAL_GVOL,right,superior parietal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_SUPERIORPARIETAL_AVGTH,left,superior parietal cortex,mean cortical thickness,mm (project documentation)
+RH_SUPERIORPARIETAL_AVGTH,right,superior parietal cortex,mean cortical thickness,mm (project documentation)
+LH_SUPERIORTEMPORAL_GVOL,left,superior temporal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_SUPERIORTEMPORAL_GVOL,right,superior temporal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_SUPERIORTEMPORAL_AVGTH,left,superior temporal cortex,mean cortical thickness,mm (project documentation)
+RH_SUPERIORTEMPORAL_AVGTH,right,superior temporal cortex,mean cortical thickness,mm (project documentation)
+LH_SUPRAMARGINAL_GVOL,left,supramarginal gyrus,regional gray-matter volume,not supplied / verify with TA
+RH_SUPRAMARGINAL_GVOL,right,supramarginal gyrus,regional gray-matter volume,not supplied / verify with TA
+LH_SUPRAMARGINAL_AVGTH,left,supramarginal gyrus,mean cortical thickness,mm (project documentation)
+RH_SUPRAMARGINAL_AVGTH,right,supramarginal gyrus,mean cortical thickness,mm (project documentation)
+LH_TRANSVERSETEMPORAL_GVOL,left,transverse temporal cortex,regional gray-matter volume,not supplied / verify with TA
+RH_TRANSVERSETEMPORAL_GVOL,right,transverse temporal cortex,regional gray-matter volume,not supplied / verify with TA
+LH_TRANSVERSETEMPORAL_AVGTH,left,transverse temporal cortex,mean cortical thickness,mm (project documentation)
+RH_TRANSVERSETEMPORAL_AVGTH,right,transverse temporal cortex,mean cortical thickness,mm (project documentation)
+LH_INSULA_GVOL,left,insula,regional gray-matter volume,not supplied / verify with TA
+RH_INSULA_GVOL,right,insula,regional gray-matter volume,not supplied / verify with TA
+LH_INSULA_AVGTH,left,insula,mean cortical thickness,mm (project documentation)
+RH_INSULA_AVGTH,right,insula,mean cortical thickness,mm (project documentation)
+NACCUDSD,,,UDS cognitive-status code copied to MRI file,not applicable
